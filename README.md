@@ -1,2 +1,16 @@
-# live
-list of live performances
+# list of live performances
+
+2026-02-06 [Človek zvíťazil @ tranzit.sk](https://youtu.be/7HrhKsOYd-g)
+2025-05-24 [Drone day @ T3 kultúrny prostriedok](https://youtu.be/Z2sudnIyIRQ)
+2024-08-09 [Unity @ Pink Whale](https://youtu.be/6Mr9fgu8NY8)
+2024-07-24 [Mikrozvuk #46 @ LOM](https://youtu.be/nCQmLilyhh0)
+2022-07-31 [Yuzu house Bratislava](https://youtu.be/8TodxjeJRVU)
+2022-03-02 [Fuga](https://youtu.be/3H1IqzCPP1A)
+2021-11-17 [klub Lúč, Trenčín](https://youtu.be/ElLxGXDBK98)
+2021-06-04 [Zhluk @ T3 kulturny prostriedok](https://youtu.be/4U0si6VO1tU)
+2021-05-09 [Uroboros @ Fuga](https://youtu.be/pZslkmH7Mn4)
+2020-09-12 [KRAA! #7 @/A4](https://youtu.be/QEjUE4aHUy4)
+2019-10-17 [Plnka @ Fuga](https://youtu.be/DKDHByrZlts)
+2018-12-16 [Trammed @ T3 kulturny prostriedok](https://youtu.be/ev7tEsMvMfQ)
+2018-10-14 [Mikrōzvūk @ LOM](https://youtu.be/nUm_KfEWf8Q)
+2017-10-23 [live @ A4](https://youtu.be/LFLfr7rMSIw)
