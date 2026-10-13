@@ -9,7 +9,7 @@
 - 2021-11-17 [klub Lúč, Trenčín](https://youtu.be/ElLxGXDBK98)
 - 2021-06-04 [Zhluk @ T3 kulturny prostriedok](https://youtu.be/4U0si6VO1tU)
 - 2021-05-09 [Uroboros @ Fuga](https://youtu.be/pZslkmH7Mn4)
-- 2020-09-12 [KRAA! #7 @/A4](https://youtu.be/QEjUE4aHUy4)
+- 2020-09-12 [KRAA! #7 @ A4](https://youtu.be/QEjUE4aHUy4)
 - 2019-10-17 [Plnka @ Fuga](https://youtu.be/DKDHByrZlts)
 - 2018-12-16 [Trammed @ T3 kulturny prostriedok](https://youtu.be/ev7tEsMvMfQ)
 - 2018-10-14 [Mikrōzvūk @ LOM](https://youtu.be/nUm_KfEWf8Q)
